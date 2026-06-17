@@ -1,6 +1,6 @@
 # 行政公文起草 Skill
 
-**Version**: V5.0 | **Author**: Verchiel | **License**: MIT
+**Version**: V9.2 | **Author**: Verchiel | **License**: MIT
 
 ---
 
